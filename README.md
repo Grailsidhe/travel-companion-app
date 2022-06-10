@@ -1,6 +1,6 @@
 # Travel Companion App
 
-Side project using React, Google Maps, Open Weathrer Map and various NPM packages.
+Side project using React, Google Maps, Open Weather Map and various NPM packages.
 
 ## Technologies used
 
